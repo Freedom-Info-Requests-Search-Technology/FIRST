@@ -12,3 +12,4 @@ Update these with correct links
 
 # FIRST
 
+This repo has a PR template
